@@ -1,0 +1,3 @@
+# Ultrasound-2D-Image-Processor
+
+In the Fall of 2015, for my final project in Introduction to Sensors, Instruments, and Measurements, my partner and I decided to create an ultrasound range finder that would spin in a circle and then process the distance points it found to produce a bird's eye view of its surroundings. The range finder was built with a breadboard and circuitry, then attached to a motor on a mount. It was connected to an arduino that would receive the data, send it to a third-party processing program called Processor which would analyze the data and plot the distance points on a Cartesian plane in real time. This is the code for the Arduino and the Processor, the area of the project I mainly worked on. 
